@@ -1,0 +1,35 @@
+.top-image {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-md-6 {
+    width: 100px;
+    height: auto;
+    border: 5px ridge rgb(105, 98, 28);
+}
+
+h1,
+p {
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#mysteryPic{
+    margin: 0px auto;
+    display: block;
+}
